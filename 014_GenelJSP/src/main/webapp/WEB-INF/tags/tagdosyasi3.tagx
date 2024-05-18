@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+
+    <jsp:directive.tag pageEncoding="UTF-8"/> 
+    <jsp:directive.attribute name="birinciSoz" type="java.lang.String" required="true"/>
+    <jsp:directive.attribute name="ikinciSoz" type="java.lang.String" required="true"/>
+    <jsp:directive.attribute name="ucuncuSoz" type="java.lang.String" required="true"/>
+    <jsp:text> ${birinciSoz} ${ikinciSoz} ${ucuncuSoz} </jsp:text>
+</jsp:root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib version="2.0" xmlns="https://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://java.sun.com/xml/ns/j2ee https://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"><tlib-version>1.0</tlib-version>
+  <jsp-version>1.2</jsp-version>
+  <short-name>customtaglibrarytld1</short-name>
+  <uri>/WEB-INF/tlds/customtaglibraryTLD1</uri>
+   <tag>
+      <name>mesajimiz1</name>
+      <tag-class>tr.com.huseyinaydin.customtaglibrarypaketimiz1.CustomTagLibrarySinifi1</tag-class>
+      <body-content>EMPTY</body-content>
+      <info>customtaglibrarytld1 hakkinda aciklama</info>
+    </tag>
+</taglib>

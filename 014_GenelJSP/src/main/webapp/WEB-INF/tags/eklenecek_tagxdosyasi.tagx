@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.tag pageEncoding="UTF-8"/>
+        <h2>
+            tag
+            <font color="red">x</font>
+            dosyası eklendi
+        </h2>
+</jsp:root>
